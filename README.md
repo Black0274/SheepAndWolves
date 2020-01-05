@@ -1,2 +1,1 @@
-# SheepAndWolves
-Task for course CS253 Intellectual Systems.
+Sheep and Volves game with GUI. There are PvP and PvE modes.
