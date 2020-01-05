@@ -1,1 +1,1 @@
-Sheep and Volves game with GUI. There are PvP and PvE modes.
+Sheep and Wolves game with GUI. There are PvP and PvE modes.
